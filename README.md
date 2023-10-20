@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/divyanshu230902" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshu230902?logo=twitter&style=for-the-badge" alt="divyanshu230902" /></a> </p>
 
-- 🌱 I’m currently learning **Android app development using java**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **divyanshuagarwal94154@gmail.com**
 
