@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)](https://Divyanshu2309.io)
 <h1 align="center">Hi 👋, I'm Divyanshu Agarwal</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu2309&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu2309" /> </p>
